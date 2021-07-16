@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 stv = 4
 
 # TODO: set up an input pulse called pls
-pls = [0,1,1,0,1]
+pls = [0,0,1,0,0]
 
 # TODO: then create a list of 6 pulses, called x, to use for input
 x = pls * 6
